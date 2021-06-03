@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The petition of rights [sic], exhibited to His Maiestie by the Lords spirituall and temporall, and Commons in Parliament assembled, concerning divers rights and liberties of the subjects: with the Kings Majesties severall answers thereunto. VVith his Majesties declaration upon the same.</title>
+            <title>Proceedings. 1642.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83374</idno><idno type="EEBO-CITATION">99900013</idno>
+  <idno type="VID">133199</idno>
+  <idno type="EEBO-PROQUEST">2240874309</idno>
+  
+            <idno type="STC">Wing E2170</idno>
+            <idno type="STC">ESTC R230728</idno>
+            <idno type="PROQUEST">99900013</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99900013e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83374)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133199)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The petition of rights [sic], exhibited to His Maiestie by the Lords spirituall and temporall, and Commons in Parliament assembled, concerning divers rights and liberties of the subjects: with the Kings Majesties severall answers thereunto. VVith his Majesties declaration upon the same.</title>
+                  <title>Proceedings. 1642.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for M. Walbancke and L. Chapman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133199:1"/>
+            <pb facs="tcp:133199:1"/>
+            <p> THE PETITION OF RIGHTS, EXHIBITED TO His Maiestie, BY THE LORDS SPIRI<g ref="char:EOLhyphen"/>TVALL AND TEMPORALL, and Commons in PARLIAMENT assembled, concerning divers Rights and Liber<g ref="char:EOLhyphen"/>ties of the Subjects: with the Kings Maje<g ref="char:EOLhyphen"/>sties severall Answers thereunto.</p>
+            <p>With his Majesties Declarati<g ref="char:EOLhyphen"/>on upon the same.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>M. Walbancke</hi> and <hi>L. Chapman.</hi>
+            </p>
+            <p>1642.</p>
+            <pb facs="tcp:133199:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133199:2"/>
+            <head>THE PETITION OF RIGHTS, Exhibited to His Majestie, by the Lords Spirituall and Temporall, and Commons in Parliament assembled, &amp;c.</head>
+            <head type="sub">To the Kings most Excellent Maiestie.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Vmbly shew unto Our Soveraigne Lord the KING, the Lords Spirituall, and Temporall Commons in Parliament assem<g ref="char:EOLunhyphen"/>bled, That whereas it is declared &amp; enacted by a Statute made in the time of the Reigne of King <hi>Edward</hi> the first, commonly called <hi>Statutum de Tallagio non concedendo,</hi> That no Tallage or Ayde shall bee laid or levyed by the King or his Heires in this Realme, without the good will and assent of the Archbi<g ref="char:EOLhyphen"/>shops, Bishops, Earles, Barons, Knights, Burgesses, and other the Freemen of the Commonalty of this Realme. And by Authoriry of Parliament holden in the five and twentieth yeare of the Reigne of King EDWARD the third, it is decared and enacted, That
+<pb facs="tcp:133199:3"/> from hencforth no person should be compelled to make any Loanes to the King against his will, because such Loanes were against rea<g ref="char:EOLhyphen"/>son, and the Franchise of the Land. And by other Lawes of this Realme it is provided, that none should be charged by any charge or Imposition, called a Benevolence, nor by such like charge, by which the Statutes before mentioned, and other the good Lawes and Statutes of this Realme, your Subiects have inherited this Free<g ref="char:EOLhyphen"/>dome; That they should not bee compelled to contribute to any Taxe, Tallage, Ayde, or other like Charge, not set by common consent in Parliament.</p>
+            <p>Yet neverthelesse of late, divers Commissions directed to sun<g ref="char:EOLhyphen"/>dry Commissioners in severall Counties, with instructions, have issued; by meanes whereof your people have beene in divers pla<g ref="char:EOLhyphen"/>ces assembled, and required to lend certaine summes of money un<g ref="char:EOLhyphen"/>to you Maiestie, and of them upon their refusall so to doe, have had an Oath administred unto them, not warrantable by the Lawes or Statutes of this Realme, and have beene constrained to become bound to make apparance, and give attendance before your Privie Councell, and in other places; and others of them have beene therefore Imprisoned, confined, and sundry other waies molested and disquieted. And divers other charges have beene levyed upon your people in severall Counties, by Lord Lieutenants, Deputie-Lieutenants, Commissioners for Musters, Iustices of Peace, and o<g ref="char:EOLhyphen"/>thers by Command of or Direction from your Maiestie, or your Privie Councell, against the Lawes and free Customes of the Realme.</p>
+            <p>And where also by the Statute called, <hi>The great Charter of the Li<g ref="char:EOLhyphen"/>berties of England,</hi> It is declared and enacted, That no Freeman may be taken or imprisoned, or be disseised of his Free hold, or Liber<g ref="char:EOLhyphen"/>ties, or his free Customes, or be outlawed, or exiled, or in any man<g ref="char:EOLhyphen"/>ner destroyed, but by the lawfull Iudgement of his Peeres, or by the Law of the Land.</p>
+            <p>And in the eight and twentieth yeare of the reigne of KING <hi>Edward</hi> the third, it was declared and enacted by authority of Par<g ref="char:EOLhyphen"/>liament, that no man of what estate and condition that hee bee, should be put out of his Land or Tenements nor taken nor impriso<g ref="char:EOLhyphen"/>ned, nor disherited, nor put to death without being brought to an<g ref="char:EOLhyphen"/>were by due Processe of Law.</p>
+            <pb facs="tcp:133199:3"/>
+            <p> Neverthelesse against the tenour of the said Statutes, and other the good Lawes and Statutes of your Realme, to that end provided, divers of your Subiects have of late beene imprisoned without any cause shewed: And when for their deliverance they were brought before your Iustices by your Maiestie<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Writs of <hi>Habeas Corpus,</hi> there to undergo and receive as the Court should order, and their keepers commanded to certifie the causes of th<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>detainer, no cause was certified, but th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t they were detained by your Maiesties speciall command, signified by the Lords of your Privie Councell, and yet were returned back to severall <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> without being charged with any thing to which they might m<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to Law.</p>
+            <p>And whereas of late, great Comp<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> and Marri<g ref="char:EOLhyphen"/>ners, have beene dispersed into divers Co<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> the Realme, and the Inhabitants, against their wills, have beene compelled to receive them into their houses, and there <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> suffer them to soiourne against the Lawes and Customes of this Realme <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>d to the great grie<g ref="char:EOLhyphen"/>vance and vexation of the people.</p>
+            <p>And whereas also by authority of Parliament, in the five and twentieth yeare of the Reigne of King <hi>Edward</hi> the third, it is de<g ref="char:EOLhyphen"/>clared and enacted, that no man should bee foreiudged of life or limbe against the forme of the <hi>Great Charter</hi> and the Law of the Land; And by the said <hi>Great Charter,</hi> and other the Lawes and Sta<g ref="char:EOLhyphen"/>tutes of this your Realme, no man ought to bee adiudged to death, but by the Lawes established in this your Realme, either by the Customes of the same Realme, or by Acts of Parliament. And whereas no offender, of what kinde soever, is excempted from the proceedings to bee used, and punishments to bee inflicted by the Lawes and Statutes of this your Realme: Neverthelesse, of lat<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> time divers Commissions under your Maiesties great Seale hav<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> issued foorth by which certaine persons have beene assigned an<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> appointed Commissioners with power and authority to pro<g ref="char:EOLunhyphen"/>ceede within the land, according to the Iustice of Martiall Law, a<g ref="char:EOLunhyphen"/>gainst such Souldiers or Marriners, or other dissolute persons io<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing with them, as should commit any murther, robbery, felon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mutiny, or other outrage, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or misdemeanour whatsoever, and<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> such summary course <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd order, as is agreeable to Martiall La<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and as is used in Armies in time of Warre, to proceede to the try<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and condemnation of such offenders, and them to cause to be ex<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cuted and put to death according to the Law Martiall.</p>
+            <pb facs="tcp:133199:4"/>
+            <p> By pretext whereof some of your Maiesties Subects have beene by some of the said Commissioners put to death, when and where, if by the Lawes and Statutes of the Land they had deserved death, by the same Lawes and Statutes also they might, and by no other ought to have beene iudged and executed.</p>
+            <p>And also sundry grievous offenders by colour thereof, claiming an excemption have escaped the punishments due to them by the Lawes and Statutes of this your Realme, by reason that divers of your Officers and Ministers of Iustice have uniustly refused or for<g ref="char:EOLhyphen"/>bourne to proceede against such offenders, according to the same Lawes and Statures, upon pretence that the said offenders were pu<g ref="char:EOLhyphen"/>nishable onely by Martiall law, and by authority of such Commis<g ref="char:EOLhyphen"/>sioners as aforesaid. Which Commissioners and all other of like nature are wholy and directly contrary to the said Lawes and Sta<g ref="char:EOLhyphen"/>tutes of this your Realme.</p>
+            <p>They doe therefore humbly pray you most Excellent Maiestie, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat no man hereafter bee compelled to make or yeeld any Gift, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Loane, Benevolence, Taxe, or such like Charge, without com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>on consent by Act of Parliament. And that none bee called to <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ake answer, or to take such Oath, or to give attendance, or be <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>onfined, or otherwise molested, or disquieted, concerning the <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, or for refusall thereof. And that no Freeman, in any such <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>anner as is before mentioned, bee imprisoned or detained. And <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>hat your Maiestie would be pleased to remove the said Souldiers <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>nd Marriners, and that your people may not bee so burthened in <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>me to come. And that the foresaid Commissioners for proceed<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>g by Martiall Law, may be revoked, and annulled. And that here<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ter no Commissions of like nature may issu forth to any person or <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rsons whatsoever, to be executed, as aforesaid, least by colour of <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>em any of your Maiesties Subiects be destroyed, or put to death, <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>trary to the Lawes and Franchise of the Land.</p>
+            <p>All which they most humbly pray, of your most Excellent Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>y, and their Rights and Liberties, according to the Lawes and <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>tutes of this Realme. And that your Maiestie would also vouch<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e to declare the Awards, doings and proceedings, to the preiu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>e of your people, in any of the premisses, shall not bee drawne <gap reason="illegible: left margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>after into consequence or example. And that your Maiestie
+<pb facs="tcp:133199:4"/> would be also gratiously pleased, for the further comfort and safety of your people, to declare your Royall will and pleasure, that in the things aforesaid, all your Officers and Ministers shall serve you, ac<g ref="char:EOLhyphen"/>cording to the Lawes and Statutes of this Realme, as they tender the Honour of your Maiesty, and the prosperitie of this Kingdom.</p>
+            <p>Which Petition being read, the Kings answer was thus delivered unto it.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Royal_response">
+                        <p>THe King willeth, that Right be done, according to the Lawes and Customes of this Realme; And, that the Statutes bee put in due execution, that his Subjects may have no cause to com<g ref="char:EOLhyphen"/>plaine of any wrong, or oppositions, contrary to their iust rights and Liberties: To the preservation whereof, He holds Himselfe in conscience aswell obliged, as of His Prerogative.</p>
+                        <p>
+                           <hi>But this Answer not giving satisfaction, the King was againe petiti<g ref="char:EOLhyphen"/>oned unto, that Hee would give a full and satisfactory Answer to their Petition in full Parliament.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Whereupon the King in Person, made this second Answer.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Royal_response">
+                        <opener>
+                           <salute>My Lords and Gentlemen,</salute>
+                        </opener>
+                        <p>
+                           <seg rend="decorInit">T</seg>He answer I have already given you, was made with so good deliberation, and approved by the Iudgements of so many wisemen, that I could not have imagined, but that it should have given you full satisfaction, but to avoid all ambigu<g ref="char:EOLhyphen"/>ous interpretations, and to shew you that there is no double<g ref="char:EOLhyphen"/>nesse in my meaning, I am willing to please you in words, as well as in sub<g ref="char:EOLhyphen"/>stance, Read your Petition, and you shall have an answer, that I am sure will please you.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And then causing the Petition to be distinctly read by the Clerk of the Crowne. The Clerk of the Parliamenr read the Kings Answer thereto in these words.</p>
+            <q>Soit droit fait come est desire, <hi>Let right be done as is desired.</hi>
+            </q>
+            <p>Which being done, The King in person said thus.</p>
+            <q>
+               <p>THis I am sure is full, yet no more then I granted you in my first An<g ref="char:EOLhyphen"/>swer: for the meaning of that was, to confirm all your Liberties, Know<g ref="char:EOLhyphen"/>ing according to your owne protestations, that you neither meane, nor can hurt my <hi>Prerogative:</hi> And I assure you my <hi>Maxime</hi> is, That the Peoples <hi>Liberty</hi> strengthens the Kings <hi>Prerogative,</hi> and that the Kings <hi>Prrogative,</hi> is to defend the Peoples <hi>Liberties.</hi>
+               </p>
+               <pb facs="tcp:133199:5"/>
+               <p> Ye see now, how ready I have shewed my selfe to satisfie your Demands, so that I have done my part: Wherefore if this Parliament have not a happie conclusion, the sinne is yours, I am free of it.</p>
+            </q>
+            <p>And on the last day of the Session, His Majesties Speech to both Houses before His assent to the Bills, was this,</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="Royal_speech">
+                        <opener>
+                           <salute>My Lords and Gentlemen,</salute>
+                        </opener>
+                        <p>IT may seeme strange that I come so suddenly to end this Session, therefore before I give my assent to the Bills, I will tell you the Cause, though I must avow that I owe an account of my Actions to none but God alone. It is knowne to every one, that a while agoe the House of Commons gave mee a Remonstrance how acceptable every man may judge, and for the merit of it, I will not call that in question, for I am sure no wise man can justifie it.</p>
+                        <p>Now since I am certainely informed that a second Remonstrance is preparing for me to take away my profit of Tonnage &amp; Poundage (one of the chiefe mainte<g ref="char:EOLhyphen"/>nances of the Crowne) by alleadging that I have given away my right thereof, by my Answer to your Petition:</p>
+                        <p>This is prejudiciall unto me, that I am forced to end this Sessions some few howers before I meant it, being willing not to receive any more Remonstrances, to which I must give a harsh answere.</p>
+                        <p>And since I see that even the House of Commons beginnes already to make false constructions of what I graunted in your Petition lest it be worse interpre<g ref="char:EOLhyphen"/>ted in the Countrey, I will now make a Declaration concerning the true intent thereof.</p>
+                        <p>The profession of both Houses in the time of hamm ring this Petition, was no waies to trench upon my Prerogative saying, They had neither intention nor power to hurt it.</p>
+                        <p>Therefore it must needs be conceived, that I have granted no new, but onely confirmed the ancient Liberties of my Subjects▪ yet to shew the clearenesse of my intentions, that I neither repent nor meane to recede from any thing I have promised you, I doe here declare, that those things which have beene done, whereby men had some cause to suspect the Liberty of the subiects to be trencht upon (which indeede was the first and true ground of the Petition) shall not here<g ref="char:EOLhyphen"/>after be drawne into example for your prejudice: And in time to come (in the words of a King) you shall not have the like cause to complaine.</p>
+                        <p>But as for Tonnage and Poundage, it is a thing I cannot want, and was never intended by you to aske, never meant (I am sure) by me to grant.</p>
+                        <p>To conclude, I command you all that are heere, to take notice what I have spoken at this time, to be the true intent and meaning of what I granted you in your Petition▪ But especially you my Lords, the Iudges for to you onely under me belongs the interpretation of Lawes; for none of the House of Parliament, joyntly or seperate, (what new doctrine soever may bee raised) have any power, either to make or declare a Law without my consent.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:133199:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
